@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="40998" started-at="2019-11-12T17:01:25Z" finished-at="2019-11-12T17:02:06Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="15508" started-at="2019-11-12T17:01:25Z" finished-at="2019-11-12T17:01:41Z">
+      <class name="pkg.Ppassing">
+        <test-method status="PASS" signature="openBrowser(java.lang.String)[pri:0, instance:pkg.Ppassing@5442a311]" name="openBrowser" duration-ms="15466" started-at="2019-11-12T17:01:25Z" finished-at="2019-11-12T17:01:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+        </test-method> <!-- openBrowser -->
+      </class> <!-- pkg.Ppassing -->
+    </test> <!-- Test1 -->
+    <test name="Test2" duration-ms="25441" started-at="2019-11-12T17:01:41Z" finished-at="2019-11-12T17:02:06Z">
+      <class name="pkg.Ppassing">
+        <test-method status="PASS" signature="openBrowser(java.lang.String)[pri:0, instance:pkg.Ppassing@59ec2012]" name="openBrowser" duration-ms="25434" started-at="2019-11-12T17:01:41Z" finished-at="2019-11-12T17:02:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+        </test-method> <!-- openBrowser -->
+      </class> <!-- pkg.Ppassing -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
