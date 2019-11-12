@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="14922" started-at="2019-11-12T19:01:01Z" finished-at="2019-11-12T19:01:16Z">
+  <suite name="Suite" duration-ms="18017" started-at="2019-11-12T19:01:40Z" finished-at="2019-11-12T19:01:58Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="14922" started-at="2019-11-12T19:01:01Z" finished-at="2019-11-12T19:01:16Z">
+    <test name="Test" duration-ms="18017" started-at="2019-11-12T19:01:40Z" finished-at="2019-11-12T19:01:58Z">
       <class name="pkg.Ppassing">
-        <test-method status="PASS" signature="openBrowser(java.lang.String)[pri:0, instance:pkg.Ppassing@5442a311]" name="openBrowser" duration-ms="14861" started-at="2019-11-12T19:01:01Z" finished-at="2019-11-12T19:01:16Z">
+        <test-method status="PASS" signature="openBrowser(java.lang.String)[pri:0, instance:pkg.Ppassing@337d0578]" name="openBrowser" duration-ms="17994" started-at="2019-11-12T19:01:40Z" finished-at="2019-11-12T19:01:58Z">
           <params>
             <param index="0">
               <value>
